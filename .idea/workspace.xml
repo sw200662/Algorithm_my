@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/2112/1208/2108.py" line="10" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec3ded7a-4841-479c-badd-baf02b4d7889" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ec3ded7a-4841-479c-badd-baf02b4d7889" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,55 +14,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2112/1220/16928.py">
+        <entry file="file://$PROJECT_DIR$/2112/1221/17626.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="29" />
+            <state relative-caret-position="363">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2112/1221/input.txt">
+        <entry file="file://$PROJECT_DIR$/2112/1222/1149.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
+              <caret selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2112/1221/17219.py">
+        <entry file="file://$PROJECT_DIR$/2112/1222/1629.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="29" />
+            <state relative-caret-position="396">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2112/1222/1629_s2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2112/1221/17626.py">
+        <entry file="file://$PROJECT_DIR$/2112/1222/1932.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="495">
+              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2112/1219/input.txt">
+        <entry file="file://$PROJECT_DIR$/2112/1222/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2112/1216/11403.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="165">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -118,11 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2112/1210/1927.py" />
-        <option value="$PROJECT_DIR$/2112/1211/1927.py" />
-        <option value="$PROJECT_DIR$/2112/1211/1931.py" />
-        <option value="$PROJECT_DIR$/2112/1211/input.txt" />
-        <option value="$PROJECT_DIR$/2112/1211/1992.py" />
         <option value="$PROJECT_DIR$/2112/1212/1992.py" />
         <option value="$PROJECT_DIR$/2112/1212/input.txt" />
         <option value="$PROJECT_DIR$/2112/1212/2178.py" />
@@ -169,6 +162,11 @@
         <option value="$PROJECT_DIR$/2112/1221/17219.py" />
         <option value="$PROJECT_DIR$/2112/1221/17626.py" />
         <option value="$PROJECT_DIR$/2112/1221/input.txt" />
+        <option value="$PROJECT_DIR$/2112/1222/1149.py" />
+        <option value="$PROJECT_DIR$/2112/1222/1629.py" />
+        <option value="$PROJECT_DIR$/2112/1222/1629_s2.py" />
+        <option value="$PROJECT_DIR$/2112/1222/input.txt" />
+        <option value="$PROJECT_DIR$/2112/1222/1932.py" />
       </list>
     </option>
   </component>
@@ -185,6 +183,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,24 +200,12 @@
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
               <item name="2112" type="462c0819:PsiDirectoryNode" />
-              <item name="1220" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="2112" type="462c0819:PsiDirectoryNode" />
-              <item name="1221" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="1222" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,8 +223,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.17626">
-    <configuration name="14500" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1932">
+    <configuration name="1149" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,11 +232,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2112/1217" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2112/1222" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2112/1217/14500.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2112/1222/1149.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16236" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1629" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2112/1219" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2112/1222" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2112/1219/16236.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2112/1222/1629.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16928" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1629_s2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,32 +274,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2112/1220" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2112/1222" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2112/1220/16928.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="17219" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2112/1221" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2112/1221/17219.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2112/1222/1629_s2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,13 +308,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1932" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2112/1222" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2112/1222/1932.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1932" />
+        <item itemvalue="Python.1629_s2" />
+        <item itemvalue="Python.1629" />
+        <item itemvalue="Python.1149" />
         <item itemvalue="Python.17626" />
-        <item itemvalue="Python.17219" />
-        <item itemvalue="Python.16928" />
-        <item itemvalue="Python.16236" />
-        <item itemvalue="Python.14500" />
       </list>
     </recent_temporary>
   </component>
@@ -497,35 +484,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2112/1213/2606.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2112/1213/2667.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2112/1213/5430.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2112/1213/test.py" />
-    <entry file="file://$PROJECT_DIR$/2112/1213/7662_s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2112/1213/7662.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -759,6 +717,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2112/1221/s1.py" />
+    <entry file="file://$PROJECT_DIR$/2112/1220/16928.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2112/1221/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2112/1221/17219.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2112/1219/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -801,34 +781,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2112/1221/s1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2112/1220/16928.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2112/1221/17219.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2112/1221/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2112/1221/17626.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2112/1222/1149.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+          <caret selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2112/1222/1629_s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2112/1222/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2112/1222/1629.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2112/1222/1932.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
