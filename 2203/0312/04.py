@@ -13,3 +13,7 @@ for x in range(n):
             for z in range(n):
                 if x !=y and y !=z and x != z:
                     point = [x,y,z]
+
+t = 1
+c = 1
+print('#{} {}'.format(t,c))
