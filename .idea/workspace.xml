@@ -16,15 +16,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2204/0413/타겟 넘버.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2204/0412/K번째 수.PY">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
@@ -82,14 +73,27 @@
         <entry file="file://$PROJECT_DIR$/2204/0416/디스크 컨트롤러.PY">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2204/0417/체육복.PY">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2204/0417/체육복.PY">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/2204/0418/모의고사.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="478">
+              <caret line="17" column="23" selection-end-line="26" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -121,9 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2112/1225/15654.py" />
-        <option value="$PROJECT_DIR$/2112/1226/15657.py" />
-        <option value="$PROJECT_DIR$/2112/1225/15650.py" />
         <option value="$PROJECT_DIR$/2112/1226/15663.py" />
         <option value="$PROJECT_DIR$/2112/1226/15666.py" />
         <option value="$PROJECT_DIR$/2112/1226/input.txt" />
@@ -172,6 +173,9 @@
         <option value="$PROJECT_DIR$/2204/0415/더 맵게.py" />
         <option value="$PROJECT_DIR$/2204/0412/프린터.py" />
         <option value="$PROJECT_DIR$/2204/0415/디스크 컨트롤러.PY" />
+        <option value="$PROJECT_DIR$/2204/0417/체육복.PY" />
+        <option value="$PROJECT_DIR$/2204/0418/모의고사.oy.py" />
+        <option value="$PROJECT_DIR$/2204/0418/모의고사.py" />
       </list>
     </option>
   </component>
@@ -189,7 +193,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,6 +225,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,8 +243,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.디스크 컨트롤러.PY">
-    <configuration name="단어 변환" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.모의고사">
+    <configuration name="더 맵게" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,11 +252,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2204/0414" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2204/0415" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2204/0414/단어 변환.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2204/0415/더 맵게.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,7 +286,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="더 맵게" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="단어 변환" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,11 +294,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2204/0415" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2204/0414" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2204/0415/더 맵게.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2204/0414/단어 변환.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,6 +320,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2204/0414/네트워크.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="모의고사" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2204/0418" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2204/0418/모의고사.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -410,6 +435,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.모의고사" />
         <item itemvalue="Python.디스크 컨트롤러.PY" />
         <item itemvalue="Python.n으로 표현" />
         <item itemvalue="Python.네트워크" />
@@ -432,7 +458,7 @@
   <component name="ToolWindowManager">
     <frame x="3832" y="9" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07744995" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12170706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -581,20 +607,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2203/0305_codingtest/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2203/0305_codingtest/9663.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2203/0305_codingtest/02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -845,6 +857,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2204/0416/디스크 컨트롤러.PY">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2204/0412/k번째 수2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -852,15 +871,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2204/0416/디스크 컨트롤러.PY">
+    <entry file="file://$PROJECT_DIR$/2204/0418/모의고사.oy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2204/0417/체육복.PY">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="66">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2204/0417/체육복.PY">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/2204/0418/모의고사.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="17" column="23" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
