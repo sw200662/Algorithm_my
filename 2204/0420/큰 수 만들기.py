@@ -10,6 +10,7 @@ def solution(number, k):
             a.pop()
         a.append(i)
     a = "".join(a[:len(a)-k])
+    print(a)
     return a
 
 solution(number, k)
